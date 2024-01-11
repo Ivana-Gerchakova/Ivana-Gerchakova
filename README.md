@@ -1,3 +1,5 @@
+<img src="https://github.com/Ivana-Gerchakova/Ivana-Gerchakova/blob/main/Blue%20Modern%20Artificial%20Intelligence%20Technology%20Logo.png
+
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
   
