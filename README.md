@@ -1,5 +1,4 @@
 ![Creativity and the Origin of Ideas](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*T1cCUF87hdwBEruJ.gif)
-
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
 
