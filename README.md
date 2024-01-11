@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Learning for an IBM Data Engineering Professional Certificate.**
 
-- 👯 I’m looking to collaborate on **Open to collaboration.**
+- 👯 **Open to collaboration.**
 
 - 📫 How to reach me **ivanagercak12@gmail.com or https://www.linkedin.com/in/ivana-g-01b754282/.**
 
