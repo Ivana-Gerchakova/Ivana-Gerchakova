@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<p><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU
 
 - 🔭 I’m currently working on : **Building a Machine Learning model for enhancing the accuracy of spoken sentences in voice chats.**
 
