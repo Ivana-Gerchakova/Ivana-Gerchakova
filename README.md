@@ -7,7 +7,7 @@
 
 - 👯 **Open to collaboration.**
 
-- 📫 How to reach me :**ivanagercak12@gmail.com or https://www.linkedin.com/in/ivana-g-01b754282/.**
+- 📫 How to reach me : **ivanagercak12@gmail.com or https://www.linkedin.com/in/ivana-g-01b754282/.**
 
 - ⚡ Fun fact : **I'm an Ironman triathlete and an ultra trail runner!**
 
