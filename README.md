@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on **Building a Machine Learning model for enhancing the accuracy of spoken sentences in voice chats.**
+- 🔭 I’m currently working on : **Building a Machine Learning model for enhancing the accuracy of spoken sentences in voice chats.**
 
-- 🌱 I’m currently learning **Learning for an IBM Data Engineering Professional Certificate.**
+- 🌱 I’m currently learning : **Learning for an IBM Data Engineering Professional Certificate.**
 
 - 👯 **Open to collaboration.**
 
-- 📫 How to reach me **ivanagercak12@gmail.com or https://www.linkedin.com/in/ivana-g-01b754282/.**
+- 📫 How to reach me :**ivanagercak12@gmail.com or https://www.linkedin.com/in/ivana-g-01b754282/.**
 
-- ⚡ Fun fact **I'm an Ironman triathlete and an ultra trail runner!**
+- ⚡ Fun fact : **I'm an Ironman triathlete and an ultra trail runner!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
