@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivana-gerchakova&label=Profile%20views&color=0e75b6&style=flat" alt="ivana-gerchakova" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivana-gerchakova" alt="ivana-gerchakova" /></a> </p>
-
 - 🔭 I’m currently working on **Building a Machine Learning model for enhancing the accuracy of spoken sentences in voice chats.**
 
 - 🌱 I’m currently learning **Learning for an IBM Data Engineering Professional Certificate.**
@@ -14,6 +10,10 @@
 - 📫 How to reach me **ivanagercak12@gmail.com or https://www.linkedin.com/in/ivana-g-01b754282/.**
 
 - ⚡ Fun fact **I'm an Ironman triathlete and an ultra trail runner!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivana-gerchakova&label=Profile%20views&color=0e75b6&style=flat" alt="ivana-gerchakova" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivana-gerchakova" alt="ivana-gerchakova" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
