@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
+<p align="left"> <img src="[https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/](https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0)>
+<p align="left"> <a href = https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif
 
+  
 - 🔭 I’m currently working on : **Building a Machine Learning model for enhancing the accuracy of spoken sentences in voice chats.**
 
 - 🌱 I’m currently learning : **Learning for an IBM Data Engineering Professional Certificate.**
