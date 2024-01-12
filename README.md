@@ -1,4 +1,4 @@
-![Creativity and the Origin of Ideas](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*T1cCUF87hdwBEruJ.gif)
+![Creativity and the Origin of Ideas]([https://miro.medium.com/v2/resize:fit:4800/format:webp/0*T1cCUF87hdwBEruJ.gif](https://media.licdn.com/dms/image/D4E3DAQHjanWkYzA_bw/image-scale_191_1128/0/1687296365063/mosaic_data_science_cover?e=2147483647&v=beta&t=5d2tsFSHU72UtS_nGlknODTRskavEUBGaRONK9Y7UY4))
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
 
