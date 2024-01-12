@@ -1,4 +1,4 @@
-![Alt Text](https://media.licdn.com/dms/image/D5616AQHrEEIXLZfkcw/profile-displaybackgroundimage-shrink_200_800/0/1689250919109?e=2147483647&v=beta&t=hGRxz4XM54LYmPgOmDk5icmc2j02CUY6MVwUE2ME7nk)
+![Alt Text](https://www.niit.com/india/sites/default/files/2022-04/Data-Science-and-Machine-Learning_02_0_0.jpg)
 
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
