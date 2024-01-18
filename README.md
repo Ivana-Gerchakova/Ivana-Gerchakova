@@ -37,9 +37,3 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivana-gerchakova&show_icons=true&locale=en&layout=compact" alt="ivana-gerchakova" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivana-gerchakova&show_icons=true&locale=en" alt="ivana-gerchakova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivana-gerchakova&" alt="ivana-gerchakova" /></p>
