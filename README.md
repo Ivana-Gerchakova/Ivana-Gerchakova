@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on: **ML/AI-Powered Speech Recognition Project on Macedonian.**
+- 🔭 I’m currently working on: **ML/AI-Powered Speech Recognition Project on Macedonian language.**
 
 - 🌱 I’m currently learning: **Learning for an IBM Data Engineering Professional Certificate.**
 
