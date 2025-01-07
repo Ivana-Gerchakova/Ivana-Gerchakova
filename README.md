@@ -1,4 +1,4 @@
-![Alt Text](https://www.niit.com/india/sites/default/files/2022-04/Data-Science-and-Machine-Learning_02_0_0.jpg)
+<img src="https://raw.githubusercontent.com/Ivana-Gerchakova/cover/main/Data-Science-and-Machine-Learning.jpg" alt="Cover Image" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
