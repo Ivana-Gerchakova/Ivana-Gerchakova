@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on: **ML ZoomCamp by DataTalksClub.**
+- 🔭 I’m currently working on: **DP-100: Designing and Implementing a Data Science solution on Azure.**
 
-- 🌱 I’m currently learning: **Learning for an IBM Data Engineering Professional Certificate.**
+- 🌱 I’m currently learning: **DP-100: Designing and Implementing a Data Science solution on Azure.**
 
 - 💞️ **Open to collaboration.**
 
