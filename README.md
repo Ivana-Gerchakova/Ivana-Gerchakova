@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
 <h3 align="center">👀 A passionate Machine Learning-Data Scientist</h3>
 
-- 🔭 I’m currently working on: **DP-100: Designing and Implementing a Data Science solution on Azure.**
+- 🔭 I’m currently working on: **Master’s Thesis Research: Developing intelligent system solutions as part of my MSc in Robotics & Intelligent Systems.
+Predictive Modeling & Robotics: Designing algorithms for pattern recognition and autonomous decision-making.**
 
-- 🌱 I’m currently learning: **DP-100: Designing and Implementing a Data Science solution on Azure.**
+- 🌱 I’m currently learning: **Developing a 3D Robot Arm Simulator implementing Forward/Inverse Kinematics as a core project for my MSc in Computer Science, Robotics & Intelligent Systems.**
 
 - 💞️ **Open to collaboration.**
 
