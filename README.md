@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Ivana-Gerchakova/cover/main/Data-Science-and-Machine-Learning.jpg" alt="Cover Image" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Ivana Gerchakova</h1>
-<h3 align="center">👀 A passionate Machine Learnning-Data Scientist</h3>
+<h3 align="center">👀 A passionate Machine Learning-Data Scientist</h3>
 
 - 🔭 I’m currently working on: **DP-100: Designing and Implementing a Data Science solution on Azure.**
 
